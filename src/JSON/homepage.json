@@ -1,0 +1,208 @@
+{
+    "Dish": [
+        {
+            "img": "./img/product1.avif",
+            "name": "Fride Rice",
+            "id": "Fride_Rice"
+        },
+        {
+            "img": "./img/product2.avif",
+            "name": " Biryani",
+            "id": "Biryani"
+        },
+        {
+            "img": "./img/product3.avif",
+            "name": " Pizza",
+            "id": "Pizza"
+        },
+        {
+            "img": "./img/product4.avif",
+            "name": " Burger",
+            "id": "Burger"
+        },
+        {
+            "img": "./img/product5.webp",
+            "name": " Chicken",
+            "id": "Chicken"
+        },
+        {
+            "img": "./img/product6.avif",
+            "name": " Thali",
+            "id": "Thali"
+        },
+        {
+            "img": "./img/product7.avif",
+            "name": " Sandwich",
+            "id": "Sandwich"
+        },
+        {
+            "img": "./img/product8.avif",
+            "name": " Rolls",
+            "id" : "Rolls"
+        },
+        {
+            "img": "./img/product9.avif",
+            "name": " Paneer",
+            "id" : "Paneer"
+        },
+        {
+            "img": "./img/product10.avif",
+            "name": " Noodles",
+            "id" : "Noodles"
+        },
+        {
+            "img": "./img/product11.avif",
+            "name": " Momos",
+            "id" : "Momos"
+        },
+        {
+            "img": "./img/product12.avif",
+            "name": " Cake",
+            "id" : "Cake"
+        }
+    ],
+    "Brand": [
+        {
+            "img1" : "./img/brand1.avif",
+            "name" : "Haldiram's Restaurant",
+            "link" : "https://www.haldirams.com/"
+        },
+        {
+            "img1" : "./img/brand2.png",
+            "name" : "Domino's Pizza",
+            "link" : "https://www.dominos.co.in/"
+        },
+        {
+            "img1" : "./img/brand3.avif",
+            "name" : "Pizza Hut",
+            "link" : "https://www.pizzahut.co.in/"
+        },
+        {
+            "img1" : "./img/brand4.jpg",
+            "name" : "KFC",
+            "link" : "https://www.kfc.com/"
+        },
+        {
+            "img1" : "./img/brand5.webp",
+            "name" : "Babbu Hotel",
+            "link" : "https://magicpin.in"
+        },
+        {
+            "img1" : "./img/brand6.avif",
+            "name" : "Behrouz Biryani",
+            "link" : "https://www.behrouzbiryani.com/"
+        },
+        {
+            "img1" : "./img/brand7.avif",
+            "name" : "Faasos",
+            "link" : "https://www.eatsure.com"
+        },
+        {
+            "img1" : "./img/brand8.avif",
+            "name" : "Haldiram's Sweets and Namkeen",
+            "link" : "https://www.haldirams.com/"
+        },
+        {
+            "img1" : "./img/brand9.avif",
+            "name" : "Subway",
+            "link" : "https://www.subway.com/en-us"
+        },
+        {
+            "img1" : "./img/brand10.avif",
+            "name" : "The Belgian Waffle Co.",
+            "link" : "https://thebelgianwaffle.co/"
+        }
+    ],
+    "Order":[
+        {
+            "img":"./img/order1.avif",
+            "name":"Golden Harvest - Airport Centre Point",
+            "id":"Golden Harvest - Airport Centre Point"
+        },
+        {
+            "img":"./img/order2.avif",
+            "name":"Mullaji Zillah Biryani Centre",
+            "id":"Mullaji Zillah Biryani Centre"
+        },
+        {
+            "img":"./img/order3.avif",
+            "name":"KFC",
+            "id":"KFC"
+        },
+        {
+            "img":"./img/order4.avif",
+            "name":"Median Grilled",
+            "id":"Median Grilled"
+        },
+        {
+            "img":"./img/order5.avif",
+            "name":"Pizza Hut",
+            "id":"Pizza Hut"
+        },
+        {
+            "img":"./img/order6.avif",
+            "name":"Babbu Hotel",
+            "id":"Babbu Hotel"
+        },
+        {
+            "img":"./img/order7.avif",
+            "name":"Hotel Al-Zam Zam",
+            "id":"Hotel Al-Zam Zam"
+        },
+        {
+            "img":"./img/order8.avif",
+            "name":"Swad",
+            "id":"Swad"
+        },
+        {
+            "img":"./img/order9.avif",
+            "name":"Grill Inn",
+            "id":"Grill Inn"
+        },
+        {
+            "img":"./img/order10.avif",
+            "name":"The Belgian Waffle Co.",
+            "id":"The Belgian Waffle Co."
+        },
+        {
+            "img":"./img/order11.avif",
+            "name":"Vilas Bhojnalaya",
+            "id":"Vilas Bhojnalaya"
+        },
+        {
+            "img":"./img/order12.avif",
+            "name":"Hot Sandwiches",
+            "id":"Hot Sandwiches"
+        },
+        {
+            "img":"./img/order13.avif",
+            "name":"McDonald's",
+            "id":"McDonald's"
+        },
+        {
+            "img":"./img/order14.avif",
+            "name":"Domino's Pizza",
+            "id":"Domino's Pizza"
+        },
+        {
+            "img":"./img/order15.avif",
+            "name":"The Momo's Hut",
+            "id":"The Momo's Hut"
+        },
+        {
+            "img":"./img/order16.avif",
+            "name":"Sangam Restaurant",
+            "id":"Sangam Restaurant"
+        },
+        {
+            "img":"./img/order17.avif",
+            "name":"Dinshaw's Ice Cream Parlour",
+            "id":"Dinshaw's Ice Cream Parlour"
+        },
+        {
+            "img":"./img/order18.avif",
+            "name":"Burger Singh - Big Punjabi Burgers",
+            "id":"Burger Singh - Big Punjabi Burgers"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+/* order and brand part */
+
+h2{
+    margin: 5px;
+    text-align: center;
+    font-size: 2.4rem;
+}
+
+.product1{
+    display: flex;
+    margin: 24.66px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.items{
+    margin: auto;
+}
+
+.product1 .items img{
+    border-radius: 80px;
+    width: 143px;
+    height: 143px;
+}
+
+.product1 .items a {
+    text-decoration: none;
+    color: black;
+}
+.product1 .items a:hover{
+    filter:drop-shadow(4px 4px 8px blue);
+}
+
+.product1 .items p {
+    color: black;
+    list-style: none;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+/* 3rd online order part */
+
+#order_part{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+}
+
+#order_product{
+   margin: 7px;
+  transition: ease-out 0.2s;
+}
+
+#order_product:hover{
+    border-radius: 20px;
+    box-shadow: 0.3rem 0.4rem 0.3rem 0.4rem rgb(146, 144, 144);
+}
+
+#order_product a img{
+    margin: 7px;
+    padding: 7px;
+    width: 367px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+#order_product a{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+#order_product a p{
+    color: black;
+    list-style: none;
+    text-align: center;
+    margin: 0px 5px;
+    padding: 5px;
+}
+
+@media (max-width:540px){
+    h2{
+        font-size: 27px;
+    }
+}
+@media (max-width:410px){
+    #order_product a img{
+        width: 300px;
+        height: 200px;
+    }
+}
+@media (max-width:380px){
+    h2{
+        font-size: 21px;
+    }
+}
+@media (max-width:345px){
+    #order_product a img{
+        width: 250px;
+        height: 150px;
+    }
+}
+@media (max-width:290px){
+    #order_product a img{
+        width: 200px;
+        height: 100px;
+    }
+}
