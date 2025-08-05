@@ -1,0 +1,16 @@
+.dishes-page {
+  padding: 20px;
+}
+.dishes-page ul {
+  list-style: none;
+}
+.dishes-page li {
+  margin-bottom: 10px;
+}
+.dishes-page button {
+  margin-left: 10px;
+  background: orange;
+  border: none;
+  padding: 5px;
+  color: white;
+}
