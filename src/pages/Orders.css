@@ -1,0 +1,16 @@
+.orders-page {
+  padding: 20px;
+}
+.orders-page table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.orders-page th, .orders-page td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+.orders-page th {
+  background: orange;
+  color: white;
+}
